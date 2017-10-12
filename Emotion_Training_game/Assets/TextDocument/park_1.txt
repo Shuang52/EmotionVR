@@ -1,0 +1,16 @@
+This is the park, where we'll test your emotion recognition skills. 
+I'm going to ask you to find someone with a specific emotion. 
+When you think you've found them, hold down the right trigger and point the laser at the person. 
+After you select a person, you will be asked to explain why you chose them. 
+Press the right trigger when you're ready to begin. 
+Choose a person who is happy. 
+Explain why you think this person is happy. 
+Choose another person who is surprised. 
+Explain why you think this person is surprised.
+Choose a person who is sad. 
+Explain why you think this person is sad. 
+Choose a person who is angry. 
+Explain why you think this person is angry. 
+Choose a person who is neutral. 
+Explain why you think this person is neutral. 
+You did a fantastic job! I can't wait to bring you on our first mission. 
